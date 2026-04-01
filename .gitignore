@@ -1,0 +1,53 @@
+# Video files (privacy - do not push)
+fall/
+non-fall/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# LaTeX files (do not push)
+*.tex
+*.bib
+*.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+
+# Output data (large files)
+output/
+*.pkl
+*.npy
+*.h5
+*.pt
+*.pth
+
+# Excel/data files with potentially sensitive info
+*.xlsx
+*.xls
+*.csv
+
+# Large text outputs
+grief_analysis_output.txt
+learning.txt
+meeting.txt
+feedback_responses.tex
+
+# IDE and system files
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# Feedback images
+feedback_overleaf/
+
+# Temporary files
+*.tmp
+*.swp
+*~
