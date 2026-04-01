@@ -1,6 +1,6 @@
 # Horse Racing Incident Detection Pipeline
 
-Human-in-the-Loop Weakly Supervised Temporal Action Localisation for detecting **Fell** (positive) and **Pulled-up** (negative) incidents in broadcast horse racing video.
+Human-in-the-Loop Weakly Supervised Temporal Action Localisation for detecting **Fall** (positive) and **No fall** (negative) incidents in broadcast horse racing video.
 
 ## System Requirements
 
