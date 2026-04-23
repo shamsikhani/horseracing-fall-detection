@@ -1,0 +1,31 @@
+Dear Editor,
+
+We are pleased to submit our manuscript entitled "Rare-Event Detection in Broadcast Sports Video: Fall Localisation in Horse Racing" for consideration for publication in Scientific Reports.
+
+Horse racing falls pose severe risks to both equine and jockey welfare, yet identifying these incidents within lengthy broadcast footage remains a manual and time-consuming process. Our work addresses this critical safety challenge by presenting the first automated system for temporally localising falls in broadcast National Hunt racing videos.
+
+This manuscript makes several novel contributions to the field of AI in sports:
+
+1. We present a complete human-in-the-loop annotation framework with active learning that enables efficient annotation from video-level labels alone, achieving 84% Recall@10 within 30-second tolerance under rigorous leave-one-group-out cross-validation.
+
+2. We provide systematic documentation of 15 iteratively developed methods with detailed failure analysis, offering empirical guidance for practitioners working with real-world broadcast sports footage where standard computer vision approaches fail.
+
+3. We introduce an ensemble temporal-visual classifier combining gradient-boosted models operating on temporal-difference features and within-video normalised VideoMAE embeddings, addressing the unique challenges of broadcast footage including camera transitions, replays, and visually subtle incidents.
+
+4. We incorporate recent epidemiological data from Irish horseracing (2016-2024) demonstrating that amateur riders experience 110 falls per 1000 rides and jump jockeys sustain 8 injuries per 1000 rides, highlighting the practical importance of this work for equine and jockey welfare.
+
+Our system enables annotators to locate falls by reviewing 10 candidate moments rather than scanning full race broadcasts (8-15 minutes), representing a significant advancement in sports safety analysis. All code, the annotation tool, and anonymised data are publicly available at https://github.com/shamsikhani/horseracing-fall-detection.
+
+This work bridges computer vision, sports science, and animal welfare, and we believe it will be of significant interest to the broad readership of Scientific Reports. The manuscript has not been published elsewhere and is not under consideration by any other journal.
+
+We look forward to your consideration of our manuscript.
+
+Yours sincerely,
+
+Dr Shams Ur Rahman
+School of Computing, Dublin City University
+Insight SFI Research Centre for Data Analytics
+shams.rahman@insight-centre.org
+
+On behalf of all co-authors:
+Dr Ellen Rushe, Prof Tomas Ward, Prof Siobhán O'Connor, Dr Jennifer Pugh MBE, Dr SarahJane Cullen, and Hamza Qadeer

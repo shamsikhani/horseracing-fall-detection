@@ -1,0 +1,17 @@
+AUTHOR CONTRIBUTIONS
+
+Dr Shams Ur Rahman: Conceptualization, Methodology, Software, Formal Analysis, Investigation, Data Curation, Writing - Original Draft, Visualization. Led the technical development of the fall detection pipeline, implemented the ensemble classifier architecture, conducted all computational experiments, performed iterative model refinement, developed the active learning framework, and created the Streamlit annotation interface.
+
+Dr Ellen Rushe: Conceptualization, Methodology, Software, Formal Analysis, Investigation, Writing - Review & Editing, Supervision. Contributed to the technical development of the machine learning pipeline, assisted with model architecture design and evaluation methodology, provided critical feedback on experimental design, and co-supervised the research project.
+
+Prof Tomas Ward: Conceptualization, Resources, Writing - Review & Editing, Supervision, Project Administration, Funding Acquisition. Provided overall project oversight, secured funding for the research, reviewed and validated all technical approaches and results, ensured project milestones were met, and provided strategic guidance throughout the study.
+
+Prof Siobhán O'Connor: Writing - Review & Editing, Validation. Reviewed the manuscript for clarity and scientific rigor, ensured the work met high academic standards, provided expertise on sports science and injury prevention contexts, and validated the practical implications for equine and jockey welfare.
+
+Dr Jennifer Pugh MBE: Resources, Data Curation, Validation. Provided access to the race video archive and grief event metadata through the Irish Horseracing Regulatory Board (IHRB), verified the accuracy and completeness of all metadata, validated the correctness of fall classifications and incident categorizations, and ensured data quality and regulatory compliance.
+
+Dr SarahJane Cullen: Writing - Review & Editing, Validation. Reviewed and edited the manuscript for scientific accuracy and presentation, validated the health and performance implications of the work, ensured appropriate framing of the research within the sports medicine context, and provided critical feedback on manuscript structure and clarity.
+
+Hamza Qadeer: Investigation, Writing - Review & Editing. Contributed to literature review and background research, assisted with experimental validation, provided feedback on methodology and results presentation, and reviewed manuscript drafts.
+
+All authors read and approved the final manuscript.
